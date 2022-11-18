@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1668648055
-ModificationTime: 1668744731
+ModificationTime: 1668749152
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -39,12 +39,12 @@ Lookup: 4 0 1 "standard ligatures" { "standard ligatures-1"  } ['liga' ('DFLT' <
 Lookup: 258 0 0 "horizontal kerning" { "horizontal kerning classes" [0,0,5] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 11 10 "horizontal kerning classes"
+KernClass2: 11 11 "horizontal kerning classes"
  1 c
  1 k
  1 g
- 25 h j l s x y z c_h t_h s_h
- 9 f q r v w
+ 25 f h j q r v w c_h t_h s_h
+ 9 l s x y z
  13 a e i o p t u
  1 d
  1 b
@@ -55,18 +55,19 @@ KernClass2: 11 10 "horizontal kerning classes"
  1 g
  11 a e i m o u
  5 b d n
- 25 h j l s x y z c_h t_h s_h
+ 15 h j c_h t_h s_h
  9 f q r v w
+ 9 l s x y z
  1 t
  1 p
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 40 {} 40 {} 0 {} 0 {} -40 {} -40 {} -10 {} -40 {} 0 {} 40 {} 40 {} 40 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} 0 {} 40 {} 40 {} 40 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -40 {} -10 {} 0 {} 0 {} -10 {} -40 {} -40 {} -10 {} -10 {} 0 {} -40 {} -40 {} -60 {} 0 {} -40 {} -40 {} -40 {} -10 {} -10 {} 0 {} 0 {} -60 {} -40 {} 0 {} -20 {} -20 {} -20 {} -40 {} 0 {} -40 {} -40 {} -10 {} -10 {} 0 {} -40 {} -20 {} -20 {} -40 {} 0 {} -40 {} -40 {} -10 {} -10 {}
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 40 {} 40 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 40 {} 40 {} 40 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 40 {} 40 {} 40 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} -40 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} 0 {} -40 {} -40 {} -40 {} -10 {} -20 {} 0 {} -20 {} -40 {} -40 {} -10 {} -10 {} 0 {} 0 {} -40 {} -40 {} -60 {} 0 {} -40 {} -40 {} -40 {} -10 {} -10 {} 0 {} -40 {} 0 {} -60 {} -40 {} 0 {} -20 {} -20 {} -20 {} -40 {} 0 {} -40 {} -40 {} -40 {} -10 {} -10 {} 0 {} -40 {} -20 {} -20 {} -40 {} 0 {} -40 {} -40 {} -40 {} -10 {} -10 {}
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 19 9
+WinInfo: 38 19 9
 BeginPrivate: 0
 EndPrivate
 Grid
