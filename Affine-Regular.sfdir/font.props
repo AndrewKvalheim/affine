@@ -1,0 +1,73 @@
+SplineFontDB: 3.2
+FontName: Affine-Regular
+FullName: Affine
+FamilyName: Affine
+Weight: Regular
+Copyright: Copyright (c) 2022, Andrew Kvalheim
+UComments: "2022-11-16: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 822 -437254445 982875]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1668648055
+ModificationTime: 1668738580
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 4 0 1 "standard ligatures" { "standard ligatures-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "horizontal kerning" { "horizontal kerning classes" [0,0,5] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+KernClass2: 8 8 "horizontal kerning classes"
+ 3 g k
+ 1 c
+ 25 h j l s x y z c_h t_h s_h
+ 9 f q r v w
+ 13 a e i o p t u
+ 3 d n
+ 3 b m
+ 3 g k
+ 1 c
+ 17 a b d e i m n o u
+ 25 h j l s x y z c_h t_h s_h
+ 9 f q r v w
+ 1 t
+ 1 p
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 50 {} 40 {} 0 {} -40 {} -40 {} -40 {} -40 {} 0 {} 40 {} 40 {} 0 {} -40 {} -40 {} -10 {} -40 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -40 {} -10 {} 0 {} 0 {} -40 {} -10 {} 0 {} 0 {} -40 {} -40 {} -60 {} 0 {} -40 {} -40 {} -10 {} 0 {} 0 {} -60 {} -40 {}
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 19 9
+BeginPrivate: 0
+EndPrivate
+Grid
+-1000 400 m 0
+ 2000 400 l 1024
+112 1299 m 4
+ 112 -701 l 1028
+EndSplineSet
+EndSplineFont

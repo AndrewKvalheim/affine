@@ -1,0 +1,12 @@
+StartChar: l
+Encoding: 108 108 16
+Width: 224
+Flags: W
+HStem: 400 21G<0 40 184 224> 472 40<62.8069 161.193> 552 64<81.6491 142.351>
+VStem: 0 40<400 448.619> 80 64<553.649 614.351> 184 40<400 448.619>
+CounterMasks: 1 1c
+LayerCount: 2
+Fore
+Refer: 1 729 N 1 0 0 1 112 584 2
+Refer: 10 115 N 1 0 0 1 0 0 2
+EndChar

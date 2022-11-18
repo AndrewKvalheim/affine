@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Affine</title>
+
+    <style>
+      @font-face {
+        font-family: Affine;
+        src: url(../build/Affine-Regular.otf);
+      }
+
+      body {
+        font-family: Roboto;
+        line-height: 1.5;
+        margin: 1rem;
+        text-rendering: geometricprecision;
+        text-transform: lowercase;
+        -webkit-font-smoothing: none;
+      }
+
+      p {
+        margin: 0 0 1.5em 0;
+      }
+
+      .affine {
+        font-family: Affine, Roboto;
+      }
+
+      .reference {
+        text-align: right;
+        transform: scale(-1, 1);
+      }
+
+      *[contenteditable] {
+        outline: none;
+      }
+
+      @media not screen {
+        .visible-screen {
+          display: none;
+        }
+      }
+
+      @media screen {
+        .screen-two-up {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 1rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <section class="affine" style="line-height: 1;text-align: center;">
+      <p>ckg uoaei ptbdmn fsrlvzwyqx hj</p>
+    </section>
+
+    <div class="screen-two-up">
+      <section class="affine">
+        <p>It is evident from these arguments that the whole of affine geometry merely teaches us that space is a region of three dimensions in linear quantities. All the separate facts of intuition which were mentioned in section one are simply disguised forms of this one truth. Now, if on the one hand it is very satisfactory to be able to give a common ground in the theory of knowledge for the many varieties of statements concerning space, spatial configurations, and spatial relations which, taken together, constitute geometry, it must on the other hand be emphasized that this demonstrates very clearly with what little right mathematics may claim to expose the intuitional nature of space. Geometry contains no trace of that which makes the space of intuition what it is in virtue of its own entirely distinctive qualities which are not shared by “states of addition-machines” and “gas-mixtures” and “systems of solutions of linear equations”. It is left to metaphysics to make this “comprehensible” or indeed to show why and in what sense it is incomprehensible. We have reason to be proud of the wonderful insight into the knowledge of space which we gain, but, at the same time, we must recognize with humility that our conceptual theories enable us to grasp only one aspect of the nature of space, that which, moreover, is most formal and superficial.</p>
+      </section>
+
+      <section class="reference visible-screen">
+        <p>It is evident from these arguments that the whole of affine geometry merely teaches us that space is a region of three dimensions in linear quantities. All the separate facts of intuition which were mentioned in section one are simply disguised forms of this one truth. Now, if on the one hand it is very satisfactory to be able to give a common ground in the theory of knowledge for the many varieties of statements concerning space, spatial configurations, and spatial relations which, taken together, constitute geometry, it must on the other hand be emphasized that this demonstrates very clearly with what little right mathematics may claim to expose the intuitional nature of space. Geometry contains no trace of that which makes the space of intuition what it is in virtue of its own entirely distinctive qualities which are not shared by “states of addition-machines” and “gas-mixtures” and “systems of solutions of linear equations”. It is left to metaphysics to make this “comprehensible” or indeed to show why and in what sense it is incomprehensible. We have reason to be proud of the wonderful insight into the knowledge of space which we gain, but, at the same time, we must recognize with humility that our conceptual theories enable us to grasp only one aspect of the nature of space, that which, moreover, is most formal and superficial.</p>
+      </section>
+    </div>
+  </body>
+</html>
