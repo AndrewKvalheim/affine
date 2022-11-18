@@ -1,12 +1,11 @@
 StartChar: q
 Encoding: 113 113 19
 Width: 224
-Flags: W
+Flags: HW
 HStem: 290 220<92 132> 400 20G<0 40 184 224> 472 40<62.8069 161.193>
 VStem: 0 40<400 448.619> 92 40<290 510> 184 40<400 448.619>
 CounterMasks: 1 1c
 LayerCount: 2
 Fore
-Refer: 3 107 N 1 0 0 1 92 0 2
-Refer: 11 102 N 1 0 0 1 0 0 2
+Refer: 20 120 N 1 0 0 -1 0 800 2
 EndChar

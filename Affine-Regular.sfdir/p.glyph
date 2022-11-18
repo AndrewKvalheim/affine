@@ -2,8 +2,8 @@ StartChar: p
 Encoding: 112 112 21
 Width: 112
 Flags: W
-HStem: 290 20G<0 40> 380 40<63.3806 112>
-VStem: 0 40<290 356.619>
+HStem: 228 20G<0 40 0 40> 380 40<63.3806 112>
+VStem: 0 40<228 356.619>
 LayerCount: 2
 Fore
 Refer: 24 100 N -1 0 0 -1 112 800 2

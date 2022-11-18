@@ -1,9 +1,21 @@
 StartChar: y
 Encoding: 121 121 18
-Width: 224
-Flags: HW
+Width: 180
+Flags: W
+HStem: 380 40<0 180> 460 21G<70 110> 552 20G<70 110> 552 20G<70 110>
+VStem: 70 40<460 572>
 LayerCount: 2
 Fore
-Refer: 1 729 N 1 0 0 1 112 400 2
-Refer: 16 108 N 1 0 0 1 0 0 2
+SplineSet
+70 460 m 1xe8
+ 70 572 l 1
+ 110 572 l 1
+ 110 460 l 1
+ 70 460 l 1xe8
+0 420 m 1
+ 180 420 l 1
+ 180 380 l 1
+ 0 380 l 1
+ 0 420 l 1
+EndSplineSet
 EndChar

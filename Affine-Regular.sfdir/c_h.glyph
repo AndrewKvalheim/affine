@@ -1,13 +1,19 @@
 StartChar: c_h
 Encoding: 65536 -1 28
 Width: 224
-Flags: W
+Flags: HW
 HStem: 288 40<62.8069 161.193> 290 220<92 132> 380 20G<0 40 184 224> 400 20G<0 40 184 224> 472 40<62.8069 161.193>
 VStem: 0 40<351.381 400 400 448.619> 92 40<290 510> 184 40<351.381 400 400 448.619>
 CounterMasks: 1 07
 LayerCount: 2
 Fore
-Refer: 3 107 N 1 0 0 1 92 0 2
+SplineSet
+92 308 m 1xd0
+ 92 492 l 1
+ 132 492 l 1
+ 132 308 l 1
+ 92 308 l 1xd0
+EndSplineSet
 Refer: 12 104 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "standard ligatures-1" c h

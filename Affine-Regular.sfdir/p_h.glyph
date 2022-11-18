@@ -1,0 +1,19 @@
+StartChar: p_h
+Encoding: 65539 -1 31
+Width: 224
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+160 420 m 2
+ 184 420 l 1
+ 184 380 l 1
+ 160 380 l 2
+ 120 380 88 348 88 308 c 1
+ 48 308 l 1
+ 48 370 98 420 160 420 c 2
+EndSplineSet
+Refer: 12 104 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "standard ligatures-1" p h
+EndChar

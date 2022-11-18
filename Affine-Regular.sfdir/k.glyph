@@ -2,15 +2,15 @@ StartChar: k
 Encoding: 107 107 3
 Width: 40
 Flags: W
-HStem: 290 220<0 40>
-VStem: 0 40<290 510>
+HStem: 228 21G<0 40> 552 20G<0 40> 552 20G<0 40>
+VStem: 0 40<228 572>
 LayerCount: 2
 Fore
 SplineSet
-0 290 m 5
- 0 510 l 1
- 40 510 l 1
- 40 290 l 5
- 0 290 l 5
+0 228 m 5xd0
+ 0 572 l 5
+ 40 572 l 5
+ 40 228 l 5
+ 0 228 l 5xd0
 EndSplineSet
 EndChar
