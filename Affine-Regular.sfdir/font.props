@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1668648055
-ModificationTime: 1668738580
+ModificationTime: 1668744731
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -39,22 +39,27 @@ Lookup: 4 0 1 "standard ligatures" { "standard ligatures-1"  } ['liga' ('DFLT' <
 Lookup: 258 0 0 "horizontal kerning" { "horizontal kerning classes" [0,0,5] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 8 8 "horizontal kerning classes"
- 3 g k
+KernClass2: 11 10 "horizontal kerning classes"
  1 c
+ 1 k
+ 1 g
  25 h j l s x y z c_h t_h s_h
  9 f q r v w
  13 a e i o p t u
- 3 d n
- 3 b m
- 3 g k
+ 1 d
+ 1 b
+ 1 m
+ 1 n
  1 c
- 17 a b d e i m n o u
+ 1 k
+ 1 g
+ 11 a e i m o u
+ 5 b d n
  25 h j l s x y z c_h t_h s_h
  9 f q r v w
  1 t
  1 p
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 50 {} 40 {} 0 {} -40 {} -40 {} -40 {} -40 {} 0 {} 40 {} 40 {} 0 {} -40 {} -40 {} -10 {} -40 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -40 {} -10 {} 0 {} 0 {} -40 {} -10 {} 0 {} 0 {} -40 {} -40 {} -60 {} 0 {} -40 {} -40 {} -10 {} 0 {} 0 {} -60 {} -40 {}
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 40 {} 40 {} 0 {} 0 {} -40 {} -40 {} -10 {} -40 {} 0 {} 40 {} 40 {} 40 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} 0 {} 40 {} 40 {} 40 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} 0 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -40 {} -10 {} 0 {} 0 {} -10 {} -40 {} -40 {} -10 {} -10 {} 0 {} -40 {} -40 {} -60 {} 0 {} -40 {} -40 {} -40 {} -10 {} -10 {} 0 {} 0 {} -60 {} -40 {} 0 {} -20 {} -20 {} -20 {} -40 {} 0 {} -40 {} -40 {} -10 {} -10 {} 0 {} -40 {} -20 {} -20 {} -40 {} 0 {} -40 {} -40 {} -10 {} -10 {}
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
