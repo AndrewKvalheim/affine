@@ -4,6 +4,14 @@ Width: 224
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1 729 S 1 0 0 1 112 400 2
-Refer: 10 115 N 1 0 0 1 0 0 2
+SplineSet
+40 400 m 1
+ 40 360 72 328 112 328 c 3
+ 152 328 184 360 184 400 c 1
+ 224 400 l 1
+ 224 338 174 288 112 288 c 3
+ 50 288 0 338 0 400 c 1
+ 40 400 l 1
+EndSplineSet
+Refer: 1 729 N 1 0 0 1 112 400 2
 EndChar

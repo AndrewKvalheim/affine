@@ -1,12 +1,20 @@
 StartChar: v
 Encoding: 118 118 13
 Width: 224
-Flags: W
+Flags: HW
 HStem: 368 64<81.6491 142.351> 400 20G<0 40 184 224> 472 40<62.8069 161.193>
 VStem: 0 40<400 448.619> 80 64<369.649 430.351> 184 40<400 448.619>
 CounterMasks: 1 1c
 LayerCount: 2
 Fore
-Refer: 1 729 S 1 0 0 1 112 400 2
-Refer: 11 102 N 1 0 0 1 0 0 2
+SplineSet
+184 400 m 1
+ 184 440 152 472 112 472 c 3
+ 72 472 40 440 40 400 c 1
+ 0 400 l 1
+ 0 462 50 512 112 512 c 3
+ 174 512 224 462 224 400 c 1
+ 184 400 l 1
+EndSplineSet
+Refer: 1 729 N 1 0 0 1 112 400 2
 EndChar
