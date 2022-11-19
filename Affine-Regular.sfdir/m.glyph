@@ -1,10 +1,9 @@
 StartChar: m
 Encoding: 109 109 25
 Width: 152
-Flags: W
-HStem: 228 20G<72 112 72 112> 380 40<0 48.6194 0 152>
-VStem: 0 152<380 420> 72 40<228 356.619>
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 26 110 N 1 0 0 -1 0 800 2
+Validated: 21
 EndChar

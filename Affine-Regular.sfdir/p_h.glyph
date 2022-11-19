@@ -1,7 +1,7 @@
 StartChar: p_h
 Encoding: 65539 -1 31
 Width: 224
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -23,6 +23,7 @@ SplineSet
  48 308 l 1
  48 370 98 420 160 420 c 2
 EndSplineSet
+Validated: 5
 LCarets2: 1 0
 Ligature2: "standard ligatures-1" p h
 EndChar

@@ -1,16 +1,15 @@
 StartChar: c
 Encoding: 99 99 8
 Width: 40
-Flags: W
-HStem: 228 192<0 40>
-VStem: 0 40<228 420>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 228 m 5
+0 228 m 1
  0 420 l 1
  40 420 l 1
- 40 228 l 5
- 0 228 l 5
+ 40 228 l 1
+ 0 228 l 1
 EndSplineSet
+Validated: 1
 EndChar

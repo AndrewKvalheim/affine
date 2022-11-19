@@ -1,10 +1,9 @@
 StartChar: w
 Encoding: 119 119 17
 Width: 180
-Flags: W
-HStem: 228 20G<70 110 70 110> 319 21G<70 110> 380 40<0 180>
-VStem: 70 40<228 340>
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 18 121 S 1 0 0 -1 0 800 2
+Refer: 18 121 N 1 0 0 -1 0 800 2
+Validated: 25
 EndChar

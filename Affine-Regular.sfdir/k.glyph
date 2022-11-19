@@ -1,16 +1,15 @@
 StartChar: k
 Encoding: 107 107 3
 Width: 40
-Flags: W
-HStem: 228 21G<0 40> 552 20G<0 40> 552 20G<0 40>
-VStem: 0 40<228 572>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 228 m 5xd0
- 0 572 l 5
- 40 572 l 5
- 40 228 l 5
- 0 228 l 5xd0
+0 228 m 1
+ 0 572 l 1
+ 40 572 l 1
+ 40 228 l 1
+ 0 228 l 1
 EndSplineSet
+Validated: 1
 EndChar

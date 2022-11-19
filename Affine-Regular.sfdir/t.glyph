@@ -1,10 +1,9 @@
 StartChar: t
 Encoding: 116 116 22
 Width: 112
-Flags: W
-HStem: 380 40<63.3806 112> 552 20G<0 40 0 40>
-VStem: 0 40<443.381 572>
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 24 100 N -1 0 0 1 112 0 2
+Validated: 25
 EndChar

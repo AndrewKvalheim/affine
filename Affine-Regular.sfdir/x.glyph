@@ -1,24 +1,22 @@
 StartChar: x
 Encoding: 120 120 20
 Width: 224
-Flags: W
-HStem: 288 21G<81 143> 308 20<92 132> 380 20G<0 40 92 132 184 224> 552 20G<92 132>
-VStem: 0 40<351.381 400> 92 40<308 572> 184 40<351.381 400>
-CounterMasks: 1 0e
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-40 400 m 1xbe
- 40 360 72 328 112 328 c 3x7e
+40 400 m 1
+ 40 360 72 328 112 328 c 3
  152 328 184 360 184 400 c 1
  224 400 l 1
  224 338 174 288 112 288 c 3
  50 288 0 338 0 400 c 1
- 40 400 l 1xbe
+ 40 400 l 1
 92 308 m 1
  92 572 l 1
  132 572 l 1
  132 308 l 1
  92 308 l 1
 EndSplineSet
+Validated: 5
 EndChar

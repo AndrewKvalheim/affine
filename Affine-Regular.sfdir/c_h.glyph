@@ -1,10 +1,7 @@
 StartChar: c_h
 Encoding: 65536 -1 28
 Width: 224
-Flags: HW
-HStem: 288 40<62.8069 161.193> 290 220<92 132> 380 20G<0 40 184 224> 400 20G<0 40 184 224> 472 40<62.8069 161.193>
-VStem: 0 40<351.381 400 400 448.619> 92 40<290 510> 184 40<351.381 400 400 448.619>
-CounterMasks: 1 07
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18,12 +15,13 @@ SplineSet
  152 328 184 360 184 400 c 3
  184 440 152 472 112 472 c 3
  72 472 40 440 40 400 c 3
-92 308 m 1xd0
+92 308 m 1
  92 492 l 1
  132 492 l 1
  132 308 l 1
- 92 308 l 1xd0
+ 92 308 l 1
 EndSplineSet
+Validated: 8388613
 LCarets2: 1 0
 Ligature2: "standard ligatures-1" c h
 EndChar
