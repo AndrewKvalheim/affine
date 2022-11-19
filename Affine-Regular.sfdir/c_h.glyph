@@ -1,27 +1,17 @@
 StartChar: c_h
 Encoding: 65536 -1 28
-Width: 224
-Flags: MW
+Width: 336
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-224 400 m 3
- 224 338 174 288 112 288 c 3
- 50 288 0 338 0 400 c 3
- 0 462 50 512 112 512 c 3
- 174 512 224 462 224 400 c 3
-40 400 m 3
- 40 360 72 328 112 328 c 3
- 152 328 184 360 184 400 c 3
- 184 440 152 472 112 472 c 3
- 72 472 40 440 40 400 c 3
-92 308 m 1
- 92 492 l 1
- 132 492 l 1
- 132 308 l 1
- 92 308 l 1
+118 100 m 1
+ 118 280 l 1
+ 218 280 l 1
+ 218 100 l 1
+ 118 100 l 1
 EndSplineSet
-Validated: 8388613
+Refer: 12 104 S 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "standard ligatures-1" c h
 EndChar

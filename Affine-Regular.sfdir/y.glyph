@@ -1,20 +1,19 @@
 StartChar: y
 Encoding: 121 121 18
-Width: 180
-Flags: MW
+Width: 300
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-70 460 m 1
- 70 572 l 1
- 110 572 l 1
- 110 460 l 1
- 70 460 l 1
-0 420 m 1
- 180 420 l 1
- 180 380 l 1
- 0 380 l 1
- 0 420 l 1
+100 550 m 1
+ 100 950 l 1
+ 200 950 l 1
+ 200 550 l 1
+ 100 550 l 1
+0 450 m 1
+ 300 450 l 1
+ 300 350 l 1
+ 0 350 l 1
+ 0 450 l 1
 EndSplineSet
-Validated: 1
 EndChar
