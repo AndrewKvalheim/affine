@@ -1,15 +1,15 @@
 StartChar: t_h
 Encoding: 65537 -1 29
-Width: 336
+Width: 550
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-168 475 m 17
- 71 475 -7 553 -7 650 c 9
- 93 650 l 17
- 93 609 127 575 168 575 c 9
- 168 475 l 17
+275 575 m 21
+ 123 575 0 698 0 850 c 5
+ 100 850 l 5
+ 100 753 178 675 275 675 c 13
+ 275 575 l 21
 EndSplineSet
 Refer: 12 104 N 1 0 0 1 0 0 2
 LCarets2: 1 0
