@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1668648055
-ModificationTime: 1668920430
+ModificationTime: 1668921134
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,7 +51,7 @@ KernClass2: 20 23 "horizontal kerning classes"
  1 d
  1 b
  1 m
- 1 n
+ 5 n n_g
  1 r
  1 l
  1 w
@@ -67,7 +67,7 @@ KernClass2: 20 23 "horizontal kerning classes"
  3 e i
  3 o u
  3 b d
- 1 n
+ 5 n n_g
  1 m
  19 h j c_h s_h g_h w_h
  3 q v
@@ -89,7 +89,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65398 19 8
+WinInfo: 76 19 8
 BeginPrivate: 0
 EndPrivate
 Grid
