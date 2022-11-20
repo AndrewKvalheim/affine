@@ -1,7 +1,7 @@
 StartChar: q
 Encoding: 113 113 19
 Width: 540
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
@@ -16,10 +16,10 @@ SplineSet
  100 350 l 1
  0 350 l 1
  0 450 l 1
-220 100 m 1
+220 -100 m 5
  220 620 l 1
  320 620 l 1
- 320 100 l 1
- 220 100 l 1
+ 320 -100 l 5
+ 220 -100 l 5
 EndSplineSet
 EndChar
