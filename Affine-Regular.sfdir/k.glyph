@@ -5,10 +5,10 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-0 100 m 5
- 0 700 l 5
- 100 700 l 5
- 100 100 l 5
- 0 100 l 5
+0 -100 m 1
+ 0 900 l 1
+ 100 900 l 1
+ 100 -100 l 1
+ 0 -100 l 1
 EndSplineSet
 EndChar

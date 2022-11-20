@@ -5,11 +5,17 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
+275 825 m 2
+ 275 673 152 550 0 550 c 1
+ 0 650 l 1
+ 97 650 175 728 175 825 c 2
+ 175 900 l 1
+ 275 900 l 1
+ 275 825 l 2
 0 450 m 1
  375 450 l 1
  375 350 l 1
  0 350 l 1
  0 450 l 1
 EndSplineSet
-Refer: 24 100 N 1 0 0 1 0 0 2
 EndChar
