@@ -1,12 +1,12 @@
 StartChar: s_s
 Encoding: 65544 -1 36
-Width: 350
+Width: 400
 Flags: W
-HStem: -115 80<127.218 222.782> 135 80<127.218 222.782>
-VStem: 0 100<-5.77068 105.771> 250 100<-5.77068 105.771>
+HStem: -115 80<152.218 247.782> 135 80<152.218 247.782>
+VStem: 25 100<-5.77068 105.771> 275 100<-5.77068 105.771>
 LayerCount: 2
 Fore
-Refer: 35 -1 S -1 0 0 -1 350 800 2
+Refer: 35 -1 N -1 0 0 -1 400 800 2
 LCarets2: 1 0
 Ligature2: "standard ligatures-1" s s
 EndChar
