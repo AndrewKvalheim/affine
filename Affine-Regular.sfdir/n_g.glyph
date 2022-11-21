@@ -1,15 +1,15 @@
 StartChar: n_g
 Encoding: 65542 -1 34
-Width: 375
-Flags: HMWO
+Width: 425
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-125 925 m 3
- 125 966 159 1000 200 1000 c 3
- 241 1000 275 966 275 925 c 3
- 275 884 241 850 200 850 c 3
- 159 850 125 884 125 925 c 3
+125 955 m 7
+ 125 996 159 1030 200 1030 c 7
+ 241 1030 275 996 275 955 c 7
+ 275 914 241 880 200 880 c 7
+ 159 880 125 914 125 955 c 7
 EndSplineSet
 Refer: 26 110 N 1 0 0 1 0 0 2
 LCarets2: 1 0
