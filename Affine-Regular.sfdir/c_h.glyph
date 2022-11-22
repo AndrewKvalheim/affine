@@ -1,7 +1,7 @@
 StartChar: c_h
 Encoding: 65536 -1 27
 Width: 400
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 31 -1 N -1 0 0 -1 400 540 2
