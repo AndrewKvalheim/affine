@@ -1,14 +1,14 @@
 StartChar: one
-Encoding: 49 49 71
+Encoding: 49 49 70
 Width: 480
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-50 420 m 1
- 430 460 l 1
- 430 380 l 1
- 50 340 l 1
- 50 420 l 1
+50 290 m 5
+ 430 330 l 5
+ 430 250 l 5
+ 50 210 l 5
+ 50 290 l 5
 EndSplineSet
 EndChar

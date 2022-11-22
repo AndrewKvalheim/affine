@@ -1,10 +1,10 @@
 StartChar: s_s
-Encoding: 65544 -1 36
+Encoding: 65544 -1 35
 Width: 540
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 35 -1 N -1 0 0 -1 540 800 2
+Refer: 34 -1 S -1 0 0 -1 540 540 2
 Ligature2: "standard ligatures-1" s s
 LCarets2: 1 0
 EndChar

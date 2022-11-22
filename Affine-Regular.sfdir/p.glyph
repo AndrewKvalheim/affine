@@ -1,8 +1,8 @@
 StartChar: p
-Encoding: 112 112 21
+Encoding: 112 112 20
 Width: 100
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 22 116 N -1 0 0 -1 100 800 2
+Refer: 21 116 S -1 0 0 -1 100 540 2
 EndChar

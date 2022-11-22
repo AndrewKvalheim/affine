@@ -1,8 +1,8 @@
 StartChar: D
-Encoding: 68 68 40
+Encoding: 68 68 39
 Width: 100
 Flags: W
 LayerCount: 2
 Fore
-Refer: 24 100 N 1 0 0 1 0 0 2
+Refer: 23 100 N 1 0 0 1 0 0 2
 EndChar
