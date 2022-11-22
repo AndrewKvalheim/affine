@@ -1,7 +1,7 @@
 StartChar: s_s
 Encoding: 65544 -1 36
 Width: 540
-Flags: MWO
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 35 -1 N -1 0 0 -1 540 800 2

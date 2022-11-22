@@ -1,0 +1,9 @@
+StartChar: G_h
+Encoding: 65549 -1 67
+Width: 550
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 32 -1 N 1 0 0 1 0 0 2
+Ligature2: "standard ligatures-1" G h
+EndChar
