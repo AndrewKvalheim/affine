@@ -1,7 +1,7 @@
 StartChar: p_h
 Encoding: 65539 -1 30
 Width: 400
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 28 -1 N -1 0 0 -1 400 540 2
