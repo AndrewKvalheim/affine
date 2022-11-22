@@ -1,10 +1,10 @@
 StartChar: p_h
 Encoding: 65539 -1 30
 Width: 400
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Fore
-Refer: 28 -1 S -1 0 0 -1 400 540 2
+Refer: 28 -1 N -1 0 0 -1 400 540 2
 Ligature2: "standard ligatures-1" p h
 LCarets2: 1 0
 EndChar
