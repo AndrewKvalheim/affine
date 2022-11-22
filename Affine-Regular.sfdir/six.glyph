@@ -1,7 +1,7 @@
 StartChar: six
 Encoding: 54 54 77
 Width: 480
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -10,15 +10,15 @@ SplineSet
  281 695 315 661 315 620 c 3
  315 579 281 545 240 545 c 3
  199 545 165 579 165 620 c 3
-50 440 m 1
- 430 440 l 1
- 430 360 l 1
- 50 360 l 1
- 50 440 l 1
-50 220 m 1
- 430 220 l 1
- 430 140 l 1
- 50 140 l 1
- 50 220 l 1
+50 420 m 5
+ 430 460 l 1
+ 430 380 l 1
+ 50 340 l 5
+ 50 420 l 5
+50 200 m 5
+ 430 240 l 1
+ 430 160 l 1
+ 50 120 l 5
+ 50 200 l 5
 EndSplineSet
 EndChar
