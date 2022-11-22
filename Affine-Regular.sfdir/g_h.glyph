@@ -31,6 +31,6 @@ SplineSet
  325 180 l 1
  225 180 l 1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "standard ligatures-1" g h
+LCarets2: 1 0
 EndChar

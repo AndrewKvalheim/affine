@@ -17,6 +17,6 @@ SplineSet
  316 665 350 709 350 750 c 7
 EndSplineSet
 Refer: 11 102 N 1 0 0 1 0 0 2
-LCarets2: 1 0
 Ligature2: "standard ligatures-1" f f
+LCarets2: 1 0
 EndChar
