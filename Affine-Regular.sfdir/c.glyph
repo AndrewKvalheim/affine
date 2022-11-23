@@ -1,8 +1,8 @@
 StartChar: c
 Encoding: 99 99 7
-Width: 100
+Width: 300
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 6 103 N -1 0 0 -1 100 540 2
+Refer: 6 103 N -1 0 0 -1 300 540 2
 EndChar
