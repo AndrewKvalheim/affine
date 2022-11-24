@@ -1,14 +1,14 @@
 StartChar: k
-Encoding: 107 107 2
+Encoding: 47 107 2
 Width: 100
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-0 -230 m 1
- 0 770 l 1
- 100 770 l 1
- 100 -230 l 1
- 0 -230 l 1
+0 -230 m 5
+ 0 770 l 5
+ 100 770 l 5
+ 100 -230 l 5
+ 0 -230 l 5
 EndSplineSet
 EndChar

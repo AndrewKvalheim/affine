@@ -1,5 +1,5 @@
 StartChar: t_h
-Encoding: 65537 -1 28
+Encoding: 64 -1 28
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -19,11 +19,11 @@ SplineSet
  400 143 297 75 200 75 c 7
  103 75 0 143 0 240 c 6
  0 300 l 6
-150 420 m 5
- 150 770 l 5
- 250 770 l 5
- 250 420 l 5
- 150 420 l 5
+150 420 m 1
+ 150 770 l 1
+ 250 770 l 1
+ 250 420 l 1
+ 150 420 l 1
 EndSplineSet
 Ligature2: "standard ligatures-1" t h
 LCarets2: 1 0

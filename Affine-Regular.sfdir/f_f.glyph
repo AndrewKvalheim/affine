@@ -1,10 +1,16 @@
 StartChar: f_f
-Encoding: 65543 -1 33
+Encoding: 69 -1 33
 Width: 532
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 10 102 N 1 0 0 1 0 -294 2
+SplineSet
+100 720 m 5
+ 432 720 l 5
+ 432 640 l 5
+ 100 640 l 5
+ 100 720 l 5
+EndSplineSet
 Refer: 10 102 N 1 0 0 1 0 0 2
 Ligature2: "standard ligatures-1" f f
 LCarets2: 1 0

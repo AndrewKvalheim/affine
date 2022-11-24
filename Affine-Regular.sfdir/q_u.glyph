@@ -1,0 +1,24 @@
+StartChar: q_u
+Encoding: 77 -1 77
+Width: 532
+Flags: W
+HStem: -230 150<218.417 321.583> 460 20G<220 320>
+VStem: 195 150<-206.583 -103.417> 220 100<30 480>
+LayerCount: 2
+Fore
+SplineSet
+220 30 m 1xd0
+ 220 480 l 1
+ 320 480 l 1
+ 320 30 l 1
+ 220 30 l 1xd0
+195 -155 m 3xe0
+ 195 -114 229 -80 270 -80 c 3
+ 311 -80 345 -114 345 -155 c 3
+ 345 -196 311 -230 270 -230 c 3
+ 229 -230 195 -196 195 -155 c 3xe0
+EndSplineSet
+Refer: 10 102 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "standard ligatures-1" q u
+EndChar

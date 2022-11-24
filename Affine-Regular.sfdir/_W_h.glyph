@@ -1,10 +1,10 @@
 StartChar: W_h
-Encoding: 65550 -1 66
+Encoding: 76 -1 66
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
 Refer: 32 -1 N 1 0 0 1 0 0 2
-Ligature2: "standard ligatures-1" W H
 Ligature2: "standard ligatures-1" W h
+Ligature2: "standard ligatures-1" W H
 EndChar
