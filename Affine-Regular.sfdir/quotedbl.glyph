@@ -1,0 +1,19 @@
+StartChar: quotedbl
+Encoding: 34 34 90
+Width: 250
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+160 590 m 5
+ 160 770 l 5
+ 250 770 l 5
+ 250 590 l 5
+ 160 590 l 5
+0 590 m 5
+ 0 770 l 5
+ 90 770 l 5
+ 90 590 l 5
+ 0 590 l 5
+EndSplineSet
+EndChar
