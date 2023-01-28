@@ -1,7 +1,7 @@
 StartChar: P
 Encoding: 80 80 50
 Width: 100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 20 112 N 1 0 0 1 0 0 2

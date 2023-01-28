@@ -1,0 +1,18 @@
+StartChar: quoteright_s
+Encoding: 65556 -1 86
+Width: 532
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+0 246 m 1
+ 266 512 l 1
+ 330 448 l 1
+ 64 182 l 1
+ 0 246 l 1
+EndSplineSet
+Refer: 9 115 N 1 0 0 1 0 0 2
+Ligature2: "standard ligatures-1" quotesingle s
+Ligature2: "standard ligatures-1" quoteright s
+LCarets2: 1 0
+EndChar

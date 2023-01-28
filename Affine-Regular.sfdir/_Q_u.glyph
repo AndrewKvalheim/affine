@@ -1,9 +1,7 @@
 StartChar: Q_u
 Encoding: 65551 -1 78
 Width: 532
-Flags: W
-HStem: -230 150<218.417 321.583> 460 20G<220 320>
-VStem: 195 150<-206.583 -103.417> 220 100<30 480>
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 77 -1 N 1 0 0 1 0 0 2

@@ -1,8 +1,7 @@
 StartChar: r_r
 Encoding: 65553 -1 80
 Width: 500
-Flags: W
-HStem: -230 20G<270 310 270 310> 23 21G<416 456>
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 79 -1 N -1 0 0 -1 500 540 2

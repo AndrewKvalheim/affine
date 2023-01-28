@@ -1,21 +1,20 @@
 StartChar: l_l
 Encoding: 65552 -1 79
 Width: 500
-Flags: W
-HStem: 496 21G<44 84> 750 20G<190 230> 750 20G<190 230>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-274 -166 m 1x80
+274 -166 m 1
  210 -230 l 1
  0 -20 l 1
  64 44 l 1
- 274 -166 l 1x80
-210 770 m 1xc0
+ 274 -166 l 1
+210 770 m 1
  274 706 l 1
  64 496 l 1
  0 560 l 1
- 210 770 l 1xc0
+ 210 770 l 1
 EndSplineSet
 Refer: 15 108 N 1 0 0 1 0 0 2
 LCarets2: 1 0
