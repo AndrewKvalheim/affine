@@ -1,16 +1,19 @@
 StartChar: quoteright
 Encoding: 8217 8217 83
-Width: 138
+Width: 178
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-64 536 m 5
- 0 600 l 5
- 38 638 l 5
- 38 770 l 5
- 138 770 l 5
- 138 610 l 5
- 64 536 l 5
+100 315 m 1
+ 178 270 l 1
+ 78 97 l 1
+ 0 142 l 1
+ 100 315 l 1
+100 225 m 1
+ 0 398 l 1
+ 78 443 l 1
+ 178 270 l 1
+ 100 225 l 1
 EndSplineSet
 EndChar
