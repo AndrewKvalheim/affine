@@ -1,8 +1,8 @@
 StartChar: R
 Encoding: 82 82 52
 Width: 500
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 14 114 N 1 0 0 1 0 0 2
+Refer: 46 76 N -1 0 0 -1 500 540 2
 EndChar

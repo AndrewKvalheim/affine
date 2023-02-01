@@ -1,8 +1,15 @@
 StartChar: E
 Encoding: 69 69 39
 Width: 450
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
+SplineSet
+80 150 m 5
+ 370 150 l 5
+ 370 70 l 5
+ 80 70 l 5
+ 80 150 l 5
+EndSplineSet
 Refer: 1 101 N 1 0 0 1 0 0 2
 EndChar

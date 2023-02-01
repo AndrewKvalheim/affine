@@ -4,7 +4,19 @@ Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 28 -1 N 1 0 0 1 0 0 2
+SplineSet
+60 400 m 1
+ 60 770 l 1
+ 160 770 l 1
+ 160 400 l 1
+ 60 400 l 1
+240 400 m 1
+ 240 770 l 1
+ 340 770 l 1
+ 340 400 l 1
+ 240 400 l 1
+EndSplineSet
+Refer: 11 104 S 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "standard ligatures-1" T h
 Ligature2: "standard ligatures-1" T H

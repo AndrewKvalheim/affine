@@ -1,8 +1,15 @@
 StartChar: J
 Encoding: 74 74 44
-Width: 550
-Flags: MW
+Width: 480
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 8 106 N 1 0 0 1 0 0 2
+SplineSet
+0 770 m 5
+ 480 770 l 5
+ 480 690 l 5
+ 0 690 l 5
+ 0 770 l 5
+EndSplineSet
+Refer: 45 75 N 1 0 0 1 100 0 2
 EndChar

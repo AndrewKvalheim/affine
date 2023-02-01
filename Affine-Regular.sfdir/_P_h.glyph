@@ -4,7 +4,8 @@ Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 30 -1 N 1 0 0 1 0 0 2
+Refer: 62 -1 S -1 0 0 -1 400 540 2
+LCarets2: 1 0
 Ligature2: "standard ligatures-1" P H
 Ligature2: "standard ligatures-1" P h
 EndChar

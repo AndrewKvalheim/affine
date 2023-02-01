@@ -1,8 +1,8 @@
 StartChar: Z
 Encoding: 90 90 60
 Width: 532
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 13 122 N 1 0 0 1 0 0 2
+Refer: 56 86 N -1 0 0 -1 532 540 2
 EndChar

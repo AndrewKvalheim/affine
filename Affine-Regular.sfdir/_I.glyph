@@ -1,8 +1,15 @@
 StartChar: I
 Encoding: 73 73 43
 Width: 450
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 4 105 N 1 0 0 1 0 0 2
+SplineSet
+150 695 m 3
+ 150 736 184 770 225 770 c 3
+ 266 770 300 736 300 695 c 3
+ 300 654 266 620 225 620 c 3
+ 184 620 150 654 150 695 c 3
+EndSplineSet
+Refer: 39 69 N 1 0 0 1 0 0 2
 EndChar

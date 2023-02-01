@@ -1,9 +1,9 @@
 StartChar: quotedbl
-Encoding: 34 34 90
+Encoding: 34 34 88
 Width: 300
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 84 39 N 1 0 0 1 200 0 2
-Refer: 84 39 N 1 0 0 1 0 0 2
+Refer: 82 39 N 1 0 0 1 200 0 2
+Refer: 82 39 N 1 0 0 1 0 0 2
 EndChar

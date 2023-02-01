@@ -1,10 +1,18 @@
 StartChar: C_h
 Encoding: 65544 -1 61
-Width: 550
+Width: 480
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 27 -1 N 1 0 0 1 0 0 2
+SplineSet
+0 -150 m 1
+ 480 -150 l 1
+ 480 -230 l 1
+ 0 -230 l 1
+ 0 -150 l 1
+EndSplineSet
+Refer: 65 -1 N -1 0 0 -1 480 540 2
+LCarets2: 1 0
 Ligature2: "standard ligatures-1" C H
 Ligature2: "standard ligatures-1" C h
 EndChar

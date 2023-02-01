@@ -4,5 +4,12 @@ Width: 300
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 6 103 N -1 0 0 -1 300 540 2
+SplineSet
+0 -150 m 1
+ 300 -150 l 1
+ 300 -230 l 1
+ 0 -230 l 1
+ 0 -150 l 1
+EndSplineSet
+Refer: 8 106 N 1 0 0 1 0 0 2
 EndChar

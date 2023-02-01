@@ -1,8 +1,9 @@
 StartChar: K
 Encoding: 75 75 45
-Width: 100
-Flags: MW
+Width: 280
+Flags: HMW
 LayerCount: 2
 Fore
+Refer: 2 107 N 1 0 0 1 180 0 2
 Refer: 2 107 N 1 0 0 1 0 0 2
 EndChar

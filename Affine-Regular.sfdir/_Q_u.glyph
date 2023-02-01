@@ -1,9 +1,19 @@
 StartChar: Q_u
 Encoding: 65551 -1 78
 Width: 532
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
+SplineSet
+266 796 m 5
+ 90 620 l 5
+ 154 556 l 5
+ 266 668 l 5
+ 378 556 l 5
+ 442 620 l 5
+ 266 796 l 5
+EndSplineSet
 Refer: 77 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "standard ligatures-1" Q u
 EndChar
