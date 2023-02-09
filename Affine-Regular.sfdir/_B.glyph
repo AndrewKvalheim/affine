@@ -1,8 +1,8 @@
 StartChar: B
 Encoding: 66 66 36
-Width: 480
+Width: 380
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 38 68 N -1 0 0 -1 480 540 2
+Refer: 38 68 N 1 0 0 -1 0 540 2
 EndChar

@@ -3,20 +3,38 @@ Encoding: 65545 -1 62
 Width: 400
 Flags: HMW
 LayerCount: 2
+Back
+SplineSet
+100 240 m 6
+ 100 199 159 155 200 155 c 7
+ 241 155 300 199 300 240 c 6
+ 300 300 l 6
+ 300 341 241 385 200 385 c 7
+ 159 385 100 341 100 300 c 6
+ 100 240 l 6
+0 300 m 6
+ 0 397 103 465 200 465 c 7
+ 297 465 400 397 400 300 c 6
+ 400 240 l 6
+ 400 143 297 75 200 75 c 7
+ 103 75 0 143 0 240 c 6
+ 0 300 l 6
+EndSplineSet
+Refer: 11 104 N 1 0 0 1 0 0 2
 Fore
 SplineSet
-60 400 m 1
- 60 770 l 1
- 160 770 l 1
- 160 400 l 1
- 60 400 l 1
-240 400 m 1
- 240 770 l 1
- 340 770 l 1
- 340 400 l 1
- 240 400 l 1
+0 270 m 1
+ 0 620 l 1
+ 100 620 l 1
+ 100 270 l 1
+ 0 270 l 1
+180 400 m 1
+ 180 770 l 1
+ 280 770 l 1
+ 280 400 l 1
+ 180 400 l 1
 EndSplineSet
-Refer: 11 104 S 1 0 0 1 0 0 2
+Refer: 11 104 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "standard ligatures-1" T h
 Ligature2: "standard ligatures-1" T H
