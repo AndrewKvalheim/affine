@@ -5,7 +5,7 @@ import { pathToFileURL } from "url";
 
 const [source, destination] = process.argv.slice(2);
 
-const browser = await puppeteer.launch();
+const browser = await puppeteer.launch({ args: ["--disable-lcd-text"] });
 const page = await browser.newPage();
 
 await page.emulateMediaType("print");
