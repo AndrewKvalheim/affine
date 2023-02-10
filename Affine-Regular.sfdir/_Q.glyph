@@ -1,17 +1,15 @@
 StartChar: Q
-Encoding: 81 81 51
-Width: 532
+Encoding: 81 81 49
+Width: 405
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-266 796 m 5
- 90 620 l 5
- 154 556 l 5
- 266 668 l 5
- 378 556 l 5
- 442 620 l 5
- 266 796 l 5
+0 140 m 1
+ 0 570 l 5
+ 100 570 l 5
+ 100 140 l 1
+ 0 140 l 1
 EndSplineSet
-Refer: 18 113 N 1 0 0 1 0 0 2
+Refer: 18 113 N 1 0 0 1 55 0 2
 EndChar

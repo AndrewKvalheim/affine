@@ -5,18 +5,18 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-400 -64 m 1
- 200 -264 l 1
- 136 -200 l 1
- 336 0 l 1
- 400 -64 l 1
-0 -64 m 1
- 64 0 l 1
- 264 -200 l 1
- 200 -264 l 1
- 0 -64 l 1
+64 -153 m 1
+ 0 -89 l 1
+ 291 202 l 1
+ 355 138 l 1
+ 64 -153 l 1
+109 338 m 1
+ 45 402 l 1
+ 336 693 l 1
+ 400 629 l 1
+ 109 338 l 1
 EndSplineSet
-Refer: 11 104 S 1 0 0 1 0 0 2
+Refer: 11 104 N 1 0 0 1 0 0 2
 Ligature2: "standard ligatures-1" s h
 LCarets2: 1 0
 EndChar
