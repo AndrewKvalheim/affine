@@ -1,5 +1,5 @@
 StartChar: T_h
-Encoding: 65545 -1 62
+Encoding: 65543 -1 60
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -24,8 +24,8 @@ Refer: 11 104 N 1 0 0 1 0 0 2
 Fore
 SplineSet
 0 270 m 1
- 0 620 l 1
- 100 620 l 1
+ 0 570 l 5
+ 100 570 l 5
  100 270 l 1
  0 270 l 1
 180 400 m 1

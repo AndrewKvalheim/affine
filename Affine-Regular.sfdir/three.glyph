@@ -1,9 +1,9 @@
 StartChar: three
-Encoding: 51 51 71
+Encoding: 51 51 67
 Width: 480
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 69 49 N 1 0 0 1 0 -110 2
-Refer: 69 49 S 1 0 0 1 0 110 2
+Refer: 65 49 N 1 0 0 1 0 -110 2
+Refer: 65 49 S 1 0 0 1 0 110 2
 EndChar

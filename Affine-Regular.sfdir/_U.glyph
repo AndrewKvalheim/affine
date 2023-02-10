@@ -1,8 +1,8 @@
 StartChar: U
-Encoding: 85 85 55
+Encoding: 85 85 53
 Width: 450
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 43 73 S -1 0 0 -1 450 540 2
+Refer: 41 73 S -1 0 0 -1 450 540 2
 EndChar
